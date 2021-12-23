@@ -1,0 +1,26 @@
+h1 {
+    background-color: black;
+    color: yellow;
+    text-align: center;
+    font-family: garamond, times new roman;
+}
+
+.veg {
+    background-color: purple;
+    color: whitesmoke;
+    font-family: Arial, sans-serif;
+}
+
+.big {
+    background-color: yellowgreen;
+    color: black;
+    font-family: arial, sans-serif;
+}
+
+.history {
+    background-color: purple;
+    color: black;
+}
+.fly {
+    background-color: purple;
+}
